@@ -1,0 +1,19 @@
+# MNIST is too big for GitHub - download it separately
+data/mnist_png/
+
+# Generated files
+*.csv
+*.h5
+*.keras
+*.joblib
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
